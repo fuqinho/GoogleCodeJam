@@ -1,1 +1,20 @@
-Solutions for quiz of Google Code Jam
+Solutions for Google Code Jam, written in C++.
+
+
+How to run:
+ $ clang++ main.cpp && ./a.out < sample.in
+
+
+Solved Quizzes:
+
+2008
+	Round 1A
+		A. Minimum Scalar Product
+		B. Milkshakes
+		C. Numbers
+
+	Round 1B
+		A. Crop Triangles
+		B. Number Sets
+		C. Mousetrap
+	
